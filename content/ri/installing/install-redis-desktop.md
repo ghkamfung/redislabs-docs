@@ -68,7 +68,7 @@ RedisInsight should install and run on a fresh Windows system. There is no need 
 
 1. [Download RedisInsight](https://redis.com/redis-enterprise/redis-insight/).
 1. Run the installer.
-1. After the web server starts, open [{{< param siteURL >}}]({{< param siteURL >}}) and [add a Redis database]({{< relref "/ri/using-redisinsight/add-instance.md" >}}) connection.
+1. After the applicaiton starts, click [add Redis database] to add a connection
 
 ## Next Steps
 
